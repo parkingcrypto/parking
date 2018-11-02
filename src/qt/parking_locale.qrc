@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/parking_bg.qm</file>
+        <file alias="de">locale/parking_de.qm</file>
+        <file alias="en">locale/parking_en.qm</file>
+        <file alias="es">locale/parking_es.qm</file>
+        <file alias="fi">locale/parking_fi.qm</file>
+        <file alias="fr">locale/parking_fr.qm</file>
+        <file alias="it">locale/parking_it.qm</file>
+        <file alias="ja">locale/parking_ja.qm</file>
+        <file alias="nl">locale/parking_nl.qm</file>
+        <file alias="pl">locale/parking_pl.qm</file>
+        <file alias="pt">locale/parking_pt.qm</file>
+        <file alias="ru">locale/parking_ru.qm</file>
+        <file alias="sk">locale/parking_sk.qm</file>
+        <file alias="sv">locale/parking_sv.qm</file>
+        <file alias="vi">locale/parking_vi.qm</file>
+        <file alias="zh_CN">locale/parking_zh_CN.qm</file>
+        <file alias="zh_TW">locale/parking_zh_TW.qm</file>
+    </qresource>
+</RCC>

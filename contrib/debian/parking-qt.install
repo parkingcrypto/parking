@@ -1,0 +1,6 @@
+usr/local/bin/parking-qt usr/bin
+share/pixmaps/parking32.xpm usr/share/pixmaps
+share/pixmaps/parking16.xpm usr/share/pixmaps
+share/pixmaps/parking128.png usr/share/pixmaps
+debian/parking-qt.desktop usr/share/applications
+debian/parking-qt.protocol usr/share/kde4/services/
